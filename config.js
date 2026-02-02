@@ -15,13 +15,14 @@ global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 
 global.owner = [
-  ['6285148177865', 'Endy', true],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx']
-];
+  ['6285148177865', 'endy', true],
+  ['212644391140', 'mia', true],
+  ['393882438360', 'pasquale', true],
+  ['212642043720', 'cristian', true],
+  ['212674815106', 'medalis', true],
+  ['393661122722', 'mavi', true]
+  ['15627960361', 'Zyno', true]
+ ];
 global.mods = ['xxxxxxxxxx'];
 global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx'];
 
